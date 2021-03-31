@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Iterations", "Iterations", "{51D47F81-2ADA-4050-A7BD-87397976AA97}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arrays", "Arrays", "{2F8EFA93-5386-4FB1-9C12-DF44ACD08E74}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TimeComplexity", "TimeComplexity", "{F7623AA8-7FB3-4EBD-92AC-1EE600E03DB4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CountingElements", "CountingElements", "{1FE098B5-C377-40E3-9039-2A27E67BA561}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PrefixSums", "PrefixSums", "{B20537F3-5911-4586-94C9-90857F1F0919}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sorting", "Sorting", "{1232E179-9207-4CB2-81B1-6447A167C7A1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StacksAndQueues", "StacksAndQueues", "{DC2BA726-FC3F-4097-AFED-CEB7E9BD46BB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Leader", "Leader", "{15EDC910-3C20-4B0F-9FDC-32A8F0F4C5D2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MaximumSliceProblem", "MaximumSliceProblem", "{1B82E063-78E4-4C62-86D8-6E512C5DD86E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PrimeAndCompositeNumbers", "PrimeAndCompositeNumbers", "{C4BF44AD-BEB3-49F1-A3DC-31D83E82AA09}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SieveOfEratosthenes", "SieveOfEratosthenes", "{3679F702-D0D3-4E3F-A505-D303488269E9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EuclideanAlgorithm", "EuclideanAlgorithm", "{952DD8F4-4628-4617-B3F2-0069B2E92BD7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FibonacciNumbers", "FibonacciNumbers", "{886B7953-88B0-4E8D-AA3E-13FEA991D86B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BinarySearchAlgorithm", "BinarySearchAlgorithm", "{A629DA6D-DDF4-48C5-AB5D-99D79090B58F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CaterpillarMethod", "CaterpillarMethod", "{05326CD3-2FB5-4C02-85D2-24A24896FA81}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GreedyAlgorithms", "GreedyAlgorithms", "{9775B524-DD55-4541-963D-3F4A2416C5C8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DynamicProgramming", "DynamicProgramming", "{736B5285-AE21-43B6-B679-0F24F8E19A86}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IndeedPrime2015Challenge", "IndeedPrime2015Challenge", "{B2FB239A-57C8-4B8E-8457-2548CA0EBAB1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IndeedPrime2016Challenge", "IndeedPrime2016Challenge", "{3C20300F-2DC5-4BDB-848D-EB523EDA35E5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IndeedPrime2016CollegeCodersChallenge", "IndeedPrime2016CollegeCodersChallenge", "{E6C836E6-F16A-4213-B104-BA9ADB5F3532}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FutureTraining", "FutureTraining", "{5526488C-4A04-4C1F-82D6-FF66946EC1AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility.Iterations.BinaryGap", "Codility.Iterations.BinaryGap\Codility.Iterations.BinaryGap.csproj", "{70C9309D-9AA9-4129-844F-7775A3153F3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70C9309D-9AA9-4129-844F-7775A3153F3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70C9309D-9AA9-4129-844F-7775A3153F3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70C9309D-9AA9-4129-844F-7775A3153F3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70C9309D-9AA9-4129-844F-7775A3153F3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{70C9309D-9AA9-4129-844F-7775A3153F3D} = {51D47F81-2ADA-4050-A7BD-87397976AA97}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F3B5E77-4EB2-4468-BCE4-7B4DD3D7BA09}
+	EndGlobalSection
+EndGlobal
