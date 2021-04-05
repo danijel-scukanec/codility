@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility.TimeComplexity.Fro
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility.TimeComplexity.PermMissingElem", "Codility.TimeComplexity.PermMissingElem\Codility.TimeComplexity.PermMissingElem.csproj", "{0D08088E-0C31-45C2-B5BC-8F771F69EC69}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility.TimeComplexity.TapeEquilibrium", "Codility.TimeComplexity.TapeEquilibrium\Codility.TimeComplexity.TapeEquilibrium.csproj", "{521EFEA5-7B26-44C3-B43B-FE811FF76EC8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{0D08088E-0C31-45C2-B5BC-8F771F69EC69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D08088E-0C31-45C2-B5BC-8F771F69EC69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D08088E-0C31-45C2-B5BC-8F771F69EC69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{521EFEA5-7B26-44C3-B43B-FE811FF76EC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{521EFEA5-7B26-44C3-B43B-FE811FF76EC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{521EFEA5-7B26-44C3-B43B-FE811FF76EC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{521EFEA5-7B26-44C3-B43B-FE811FF76EC8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -91,6 +97,7 @@ Global
 		{C4F66C69-8B9C-436A-B910-1ED4B0712BFF} = {2F8EFA93-5386-4FB1-9C12-DF44ACD08E74}
 		{06883205-4374-4B5C-BED2-BCFCC42BE1A9} = {F7623AA8-7FB3-4EBD-92AC-1EE600E03DB4}
 		{0D08088E-0C31-45C2-B5BC-8F771F69EC69} = {F7623AA8-7FB3-4EBD-92AC-1EE600E03DB4}
+		{521EFEA5-7B26-44C3-B43B-FE811FF76EC8} = {F7623AA8-7FB3-4EBD-92AC-1EE600E03DB4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8F3B5E77-4EB2-4468-BCE4-7B4DD3D7BA09}
