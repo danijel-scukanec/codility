@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace OddOccurrencesInArray
+namespace Codility.Arrays.OddOccurrencesInArray
 {
     public class Algorithm
     {

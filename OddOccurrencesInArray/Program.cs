@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace OddOccurrencesInArray
+﻿namespace Codility.Arrays.OddOccurrencesInArray
 {
     class Program
     {
