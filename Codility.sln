@@ -45,7 +45,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IndeedPrime2016CollegeCoder
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FutureTraining", "FutureTraining", "{5526488C-4A04-4C1F-82D6-FF66946EC1AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility.Iterations.BinaryGap", "Codility.Iterations.BinaryGap\Codility.Iterations.BinaryGap.csproj", "{70C9309D-9AA9-4129-844F-7775A3153F3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codility.Iterations.BinaryGap", "Codility.Iterations.BinaryGap\Codility.Iterations.BinaryGap.csproj", "{70C9309D-9AA9-4129-844F-7775A3153F3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility.Arrays.CyclicRotation", "Codility.Arrays.CyclicRotation\Codility.Arrays.CyclicRotation.csproj", "{B90AD2FF-81DA-4465-84F6-B6FCCCBC1F12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddOccurrencesInArray", "OddOccurrencesInArray\OddOccurrencesInArray.csproj", "{C4F66C69-8B9C-436A-B910-1ED4B0712BFF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,12 +61,22 @@ Global
 		{70C9309D-9AA9-4129-844F-7775A3153F3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70C9309D-9AA9-4129-844F-7775A3153F3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70C9309D-9AA9-4129-844F-7775A3153F3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B90AD2FF-81DA-4465-84F6-B6FCCCBC1F12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B90AD2FF-81DA-4465-84F6-B6FCCCBC1F12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B90AD2FF-81DA-4465-84F6-B6FCCCBC1F12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B90AD2FF-81DA-4465-84F6-B6FCCCBC1F12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4F66C69-8B9C-436A-B910-1ED4B0712BFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4F66C69-8B9C-436A-B910-1ED4B0712BFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4F66C69-8B9C-436A-B910-1ED4B0712BFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4F66C69-8B9C-436A-B910-1ED4B0712BFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{70C9309D-9AA9-4129-844F-7775A3153F3D} = {51D47F81-2ADA-4050-A7BD-87397976AA97}
+		{B90AD2FF-81DA-4465-84F6-B6FCCCBC1F12} = {2F8EFA93-5386-4FB1-9C12-DF44ACD08E74}
+		{C4F66C69-8B9C-436A-B910-1ED4B0712BFF} = {2F8EFA93-5386-4FB1-9C12-DF44ACD08E74}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8F3B5E77-4EB2-4468-BCE4-7B4DD3D7BA09}
