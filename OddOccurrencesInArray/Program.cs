@@ -6,7 +6,8 @@ namespace OddOccurrencesInArray
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var algorithm = new Algorithm();
+            algorithm.Solution(new int[] { 9, 3, 9, 3, 9, 7, 9 });
         }
     }
 }
