@@ -51,13 +51,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codility.Arrays.CyclicRotat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codility.Arrays.OddOccurrencesInArray", "OddOccurrencesInArray\Codility.Arrays.OddOccurrencesInArray.csproj", "{C4F66C69-8B9C-436A-B910-1ED4B0712BFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility.TimeComplexity.FrogJmp", "Codility.TimeComplexity.FrogJmp\Codility.TimeComplexity.FrogJmp.csproj", "{06883205-4374-4B5C-BED2-BCFCC42BE1A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codility.TimeComplexity.FrogJmp", "Codility.TimeComplexity.FrogJmp\Codility.TimeComplexity.FrogJmp.csproj", "{06883205-4374-4B5C-BED2-BCFCC42BE1A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility.TimeComplexity.PermMissingElem", "Codility.TimeComplexity.PermMissingElem\Codility.TimeComplexity.PermMissingElem.csproj", "{0D08088E-0C31-45C2-B5BC-8F771F69EC69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codility.TimeComplexity.PermMissingElem", "Codility.TimeComplexity.PermMissingElem\Codility.TimeComplexity.PermMissingElem.csproj", "{0D08088E-0C31-45C2-B5BC-8F771F69EC69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility.TimeComplexity.TapeEquilibrium", "Codility.TimeComplexity.TapeEquilibrium\Codility.TimeComplexity.TapeEquilibrium.csproj", "{521EFEA5-7B26-44C3-B43B-FE811FF76EC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codility.TimeComplexity.TapeEquilibrium", "Codility.TimeComplexity.TapeEquilibrium\Codility.TimeComplexity.TapeEquilibrium.csproj", "{521EFEA5-7B26-44C3-B43B-FE811FF76EC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility.CountingElements.FrogRiverOne", "Codility.CountingElements.FrogRiverOne\Codility.CountingElements.FrogRiverOne.csproj", "{12392A11-B35E-4C67-95BA-4392DFDF1BF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codility.CountingElements.FrogRiverOne", "Codility.CountingElements.FrogRiverOne\Codility.CountingElements.FrogRiverOne.csproj", "{12392A11-B35E-4C67-95BA-4392DFDF1BF6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility.CountingElements.PermCheck", "Codility.Arrays.PermCheck\Codility.CountingElements.PermCheck.csproj", "{3579D09B-1EF9-4474-B350-5B0D0A711D6D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +95,10 @@ Global
 		{12392A11-B35E-4C67-95BA-4392DFDF1BF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12392A11-B35E-4C67-95BA-4392DFDF1BF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12392A11-B35E-4C67-95BA-4392DFDF1BF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3579D09B-1EF9-4474-B350-5B0D0A711D6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3579D09B-1EF9-4474-B350-5B0D0A711D6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3579D09B-1EF9-4474-B350-5B0D0A711D6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3579D09B-1EF9-4474-B350-5B0D0A711D6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -105,6 +111,7 @@ Global
 		{0D08088E-0C31-45C2-B5BC-8F771F69EC69} = {F7623AA8-7FB3-4EBD-92AC-1EE600E03DB4}
 		{521EFEA5-7B26-44C3-B43B-FE811FF76EC8} = {F7623AA8-7FB3-4EBD-92AC-1EE600E03DB4}
 		{12392A11-B35E-4C67-95BA-4392DFDF1BF6} = {1FE098B5-C377-40E3-9039-2A27E67BA561}
+		{3579D09B-1EF9-4474-B350-5B0D0A711D6D} = {1FE098B5-C377-40E3-9039-2A27E67BA561}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8F3B5E77-4EB2-4468-BCE4-7B4DD3D7BA09}
