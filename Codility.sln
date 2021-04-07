@@ -59,13 +59,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codility.TimeComplexity.Tap
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codility.CountingElements.FrogRiverOne", "Codility.CountingElements.FrogRiverOne\Codility.CountingElements.FrogRiverOne.csproj", "{12392A11-B35E-4C67-95BA-4392DFDF1BF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility.CountingElements.PermCheck", "Codility.Arrays.PermCheck\Codility.CountingElements.PermCheck.csproj", "{3579D09B-1EF9-4474-B350-5B0D0A711D6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codility.CountingElements.PermCheck", "Codility.Arrays.PermCheck\Codility.CountingElements.PermCheck.csproj", "{3579D09B-1EF9-4474-B350-5B0D0A711D6D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility.PrefixSums.PassingCars", "Codility.PrefixSums.PassingCars\Codility.PrefixSums.PassingCars.csproj", "{EC9BCC24-2300-48F1-8F4D-85FC86FEABCC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codility.PrefixSums.PassingCars", "Codility.PrefixSums.PassingCars\Codility.PrefixSums.PassingCars.csproj", "{EC9BCC24-2300-48F1-8F4D-85FC86FEABCC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility.Sorting.Distinct", "Codility.Sorting.Distinct\Codility.Sorting.Distinct.csproj", "{4E9F83FB-4BFE-428E-AAFD-97EDE41AF628}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codility.Sorting.Distinct", "Codility.Sorting.Distinct\Codility.Sorting.Distinct.csproj", "{4E9F83FB-4BFE-428E-AAFD-97EDE41AF628}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility.Sorting.MaxProductOfThree", "Codility.Sorting.MaxProductOfThree\Codility.Sorting.MaxProductOfThree.csproj", "{00E01D5C-C68D-4E8D-B5E2-59840B32E5E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codility.Sorting.MaxProductOfThree", "Codility.Sorting.MaxProductOfThree\Codility.Sorting.MaxProductOfThree.csproj", "{00E01D5C-C68D-4E8D-B5E2-59840B32E5E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility.Sorting.Triangle", "Codility.Sorting.Triangle\Codility.Sorting.Triangle.csproj", "{269D5F8C-4B87-4A12-B6B5-13D658CBC99E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{00E01D5C-C68D-4E8D-B5E2-59840B32E5E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00E01D5C-C68D-4E8D-B5E2-59840B32E5E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00E01D5C-C68D-4E8D-B5E2-59840B32E5E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{269D5F8C-4B87-4A12-B6B5-13D658CBC99E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{269D5F8C-4B87-4A12-B6B5-13D658CBC99E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{269D5F8C-4B87-4A12-B6B5-13D658CBC99E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{269D5F8C-4B87-4A12-B6B5-13D658CBC99E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -133,6 +139,7 @@ Global
 		{EC9BCC24-2300-48F1-8F4D-85FC86FEABCC} = {B20537F3-5911-4586-94C9-90857F1F0919}
 		{4E9F83FB-4BFE-428E-AAFD-97EDE41AF628} = {1232E179-9207-4CB2-81B1-6447A167C7A1}
 		{00E01D5C-C68D-4E8D-B5E2-59840B32E5E7} = {1232E179-9207-4CB2-81B1-6447A167C7A1}
+		{269D5F8C-4B87-4A12-B6B5-13D658CBC99E} = {1232E179-9207-4CB2-81B1-6447A167C7A1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8F3B5E77-4EB2-4468-BCE4-7B4DD3D7BA09}
