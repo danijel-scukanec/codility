@@ -71,11 +71,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codility.Sorting.Triangle",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codility.StackAndQueues.Brackets", "Codility.StackAndQueues.Brackets\Codility.StackAndQueues.Brackets.csproj", "{6F0049BF-BE0D-4A52-BC1A-241550D856C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility.StacksAndQueues.Fish", "Codility.StacksAndQueues.Fish\Codility.StacksAndQueues.Fish.csproj", "{7BD65452-177F-4014-BCDD-E606504E9E44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codility.StacksAndQueues.Fish", "Codility.StacksAndQueues.Fish\Codility.StacksAndQueues.Fish.csproj", "{7BD65452-177F-4014-BCDD-E606504E9E44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility.StacksAndQueues.Nesting", "Codility.StacksAndQueues.Nesting\Codility.StacksAndQueues.Nesting.csproj", "{0F93FE67-3126-4F2E-B88C-4AE0E42E75C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codility.StacksAndQueues.Nesting", "Codility.StacksAndQueues.Nesting\Codility.StacksAndQueues.Nesting.csproj", "{0F93FE67-3126-4F2E-B88C-4AE0E42E75C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility.StacksAndQueues.StoneWall", "Codility.StacksAndQueues.StoneWall\Codility.StacksAndQueues.StoneWall.csproj", "{4FF104B0-F7B6-4D1C-831A-8EEE2E2E9D98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codility.StacksAndQueues.StoneWall", "Codility.StacksAndQueues.StoneWall\Codility.StacksAndQueues.StoneWall.csproj", "{4FF104B0-F7B6-4D1C-831A-8EEE2E2E9D98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility.Leader.Dominator", "Codility.Leader.Dominator\Codility.Leader.Dominator.csproj", "{B7A93E8B-3845-49C4-BEFE-A68CF631969A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +149,10 @@ Global
 		{4FF104B0-F7B6-4D1C-831A-8EEE2E2E9D98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FF104B0-F7B6-4D1C-831A-8EEE2E2E9D98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FF104B0-F7B6-4D1C-831A-8EEE2E2E9D98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7A93E8B-3845-49C4-BEFE-A68CF631969A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7A93E8B-3845-49C4-BEFE-A68CF631969A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7A93E8B-3845-49C4-BEFE-A68CF631969A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7A93E8B-3845-49C4-BEFE-A68CF631969A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -168,6 +174,7 @@ Global
 		{7BD65452-177F-4014-BCDD-E606504E9E44} = {DC2BA726-FC3F-4097-AFED-CEB7E9BD46BB}
 		{0F93FE67-3126-4F2E-B88C-4AE0E42E75C9} = {DC2BA726-FC3F-4097-AFED-CEB7E9BD46BB}
 		{4FF104B0-F7B6-4D1C-831A-8EEE2E2E9D98} = {DC2BA726-FC3F-4097-AFED-CEB7E9BD46BB}
+		{B7A93E8B-3845-49C4-BEFE-A68CF631969A} = {15EDC910-3C20-4B0F-9FDC-32A8F0F4C5D2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8F3B5E77-4EB2-4468-BCE4-7B4DD3D7BA09}
