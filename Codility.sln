@@ -79,6 +79,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codility.StacksAndQueues.St
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility.Leader.Dominator", "Codility.Leader.Dominator\Codility.Leader.Dominator.csproj", "{B7A93E8B-3845-49C4-BEFE-A68CF631969A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility.Leader.EquiLeader", "Codility.Leader.EquiLeader\Codility.Leader.EquiLeader.csproj", "{388C3BDC-CE36-4746-9A1D-B30155CDFF25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility.MaximumSliceProblem.MaxProfit", "Codility.MaximumSliceProblem.MaxProfit\Codility.MaximumSliceProblem.MaxProfit.csproj", "{32019287-2DCC-4DD8-83F6-932D7053392C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +157,14 @@ Global
 		{B7A93E8B-3845-49C4-BEFE-A68CF631969A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7A93E8B-3845-49C4-BEFE-A68CF631969A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7A93E8B-3845-49C4-BEFE-A68CF631969A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{388C3BDC-CE36-4746-9A1D-B30155CDFF25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{388C3BDC-CE36-4746-9A1D-B30155CDFF25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{388C3BDC-CE36-4746-9A1D-B30155CDFF25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{388C3BDC-CE36-4746-9A1D-B30155CDFF25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32019287-2DCC-4DD8-83F6-932D7053392C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32019287-2DCC-4DD8-83F6-932D7053392C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32019287-2DCC-4DD8-83F6-932D7053392C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32019287-2DCC-4DD8-83F6-932D7053392C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -175,6 +187,8 @@ Global
 		{0F93FE67-3126-4F2E-B88C-4AE0E42E75C9} = {DC2BA726-FC3F-4097-AFED-CEB7E9BD46BB}
 		{4FF104B0-F7B6-4D1C-831A-8EEE2E2E9D98} = {DC2BA726-FC3F-4097-AFED-CEB7E9BD46BB}
 		{B7A93E8B-3845-49C4-BEFE-A68CF631969A} = {15EDC910-3C20-4B0F-9FDC-32A8F0F4C5D2}
+		{388C3BDC-CE36-4746-9A1D-B30155CDFF25} = {15EDC910-3C20-4B0F-9FDC-32A8F0F4C5D2}
+		{32019287-2DCC-4DD8-83F6-932D7053392C} = {1B82E063-78E4-4C62-86D8-6E512C5DD86E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8F3B5E77-4EB2-4468-BCE4-7B4DD3D7BA09}
