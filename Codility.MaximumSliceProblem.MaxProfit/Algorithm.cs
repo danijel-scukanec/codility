@@ -1,21 +1,49 @@
-﻿using System;
-
-namespace Codility.MaximumSliceProblem.MaxProfit
+﻿namespace Codility.MaximumSliceProblem.MaxProfit
 {
     public class Algorithm
     {
-        public int Solution(int[] a)
+        public int SolutionBad(int[] a)
         {
-            var profit = 0;
-            if (a.Length <= 1)
+            int maxProfit = 0;
+
+            for (var i = 0; i < a.Length; i++)
             {
-                return profit;
+                for (var j = i + 1; j < a.Length; j++)
+                {
+                    var profit = a[j] - a[i];
+                    if (profit > maxProfit)
+                    {
+                        maxProfit = profit;
+                    }
+                }
             }
 
-            Array.Sort(a);
-            profit = a[a.Length - 1] - a[0];
+            return maxProfit;
+        }
 
-            return profit >= 0 ? profit : 0;
+        public int Solution(int[] a)
+        {
+            int sliceProfit = 0;
+            int maxProfit = 0; 
+
+            for(var i = 0; i < a.Length - 1; i++)
+            {
+                var currentProfit = a[i + 1] - a[i];
+                if(sliceProfit + currentProfit > 0)
+                {
+                    sliceProfit = sliceProfit + currentProfit;
+                }
+                else
+                {
+                    sliceProfit = 0;
+                }
+
+                if(sliceProfit > maxProfit)
+                {
+                    maxProfit = sliceProfit;
+                }
+            }
+            return maxProfit;
         }
     }
 }
