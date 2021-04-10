@@ -87,6 +87,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility.MaximumSliceProble
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility.PrimeAndCompositeNumbers.CountFactors", "Codility.PrimeAndCompositeNumbers.CountFactors\Codility.PrimeAndCompositeNumbers.CountFactors.csproj", "{90CE29EF-F650-4CBF-AC1F-FC052E0B78FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility.PrimeAndCompositeNumbers.MinPerimeterRectangle", "Codility.PrimeAndCompositeNumbers.MinPerimeterRectangle\Codility.PrimeAndCompositeNumbers.MinPerimeterRectangle.csproj", "{E766ED78-4408-48C2-91CA-CFD49B119CCF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -177,6 +179,10 @@ Global
 		{90CE29EF-F650-4CBF-AC1F-FC052E0B78FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90CE29EF-F650-4CBF-AC1F-FC052E0B78FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90CE29EF-F650-4CBF-AC1F-FC052E0B78FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E766ED78-4408-48C2-91CA-CFD49B119CCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E766ED78-4408-48C2-91CA-CFD49B119CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E766ED78-4408-48C2-91CA-CFD49B119CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E766ED78-4408-48C2-91CA-CFD49B119CCF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -203,6 +209,7 @@ Global
 		{32019287-2DCC-4DD8-83F6-932D7053392C} = {1B82E063-78E4-4C62-86D8-6E512C5DD86E}
 		{1748954F-6137-49F3-B3BB-08FCCB62AAE8} = {1B82E063-78E4-4C62-86D8-6E512C5DD86E}
 		{90CE29EF-F650-4CBF-AC1F-FC052E0B78FF} = {C4BF44AD-BEB3-49F1-A3DC-31D83E82AA09}
+		{E766ED78-4408-48C2-91CA-CFD49B119CCF} = {C4BF44AD-BEB3-49F1-A3DC-31D83E82AA09}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8F3B5E77-4EB2-4468-BCE4-7B4DD3D7BA09}
