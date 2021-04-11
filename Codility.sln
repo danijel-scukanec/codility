@@ -77,17 +77,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codility.StacksAndQueues.Ne
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codility.StacksAndQueues.StoneWall", "Codility.StacksAndQueues.StoneWall\Codility.StacksAndQueues.StoneWall.csproj", "{4FF104B0-F7B6-4D1C-831A-8EEE2E2E9D98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility.Leader.Dominator", "Codility.Leader.Dominator\Codility.Leader.Dominator.csproj", "{B7A93E8B-3845-49C4-BEFE-A68CF631969A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codility.Leader.Dominator", "Codility.Leader.Dominator\Codility.Leader.Dominator.csproj", "{B7A93E8B-3845-49C4-BEFE-A68CF631969A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility.Leader.EquiLeader", "Codility.Leader.EquiLeader\Codility.Leader.EquiLeader.csproj", "{388C3BDC-CE36-4746-9A1D-B30155CDFF25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codility.Leader.EquiLeader", "Codility.Leader.EquiLeader\Codility.Leader.EquiLeader.csproj", "{388C3BDC-CE36-4746-9A1D-B30155CDFF25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility.MaximumSliceProblem.MaxProfit", "Codility.MaximumSliceProblem.MaxProfit\Codility.MaximumSliceProblem.MaxProfit.csproj", "{32019287-2DCC-4DD8-83F6-932D7053392C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codility.MaximumSliceProblem.MaxProfit", "Codility.MaximumSliceProblem.MaxProfit\Codility.MaximumSliceProblem.MaxProfit.csproj", "{32019287-2DCC-4DD8-83F6-932D7053392C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility.MaximumSliceProblem.MaxSliceSum", "Codility.MaximumSliceProblem.MaxSliceSum\Codility.MaximumSliceProblem.MaxSliceSum.csproj", "{1748954F-6137-49F3-B3BB-08FCCB62AAE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codility.MaximumSliceProblem.MaxSliceSum", "Codility.MaximumSliceProblem.MaxSliceSum\Codility.MaximumSliceProblem.MaxSliceSum.csproj", "{1748954F-6137-49F3-B3BB-08FCCB62AAE8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility.PrimeAndCompositeNumbers.CountFactors", "Codility.PrimeAndCompositeNumbers.CountFactors\Codility.PrimeAndCompositeNumbers.CountFactors.csproj", "{90CE29EF-F650-4CBF-AC1F-FC052E0B78FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codility.PrimeAndCompositeNumbers.CountFactors", "Codility.PrimeAndCompositeNumbers.CountFactors\Codility.PrimeAndCompositeNumbers.CountFactors.csproj", "{90CE29EF-F650-4CBF-AC1F-FC052E0B78FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility.PrimeAndCompositeNumbers.MinPerimeterRectangle", "Codility.PrimeAndCompositeNumbers.MinPerimeterRectangle\Codility.PrimeAndCompositeNumbers.MinPerimeterRectangle.csproj", "{E766ED78-4408-48C2-91CA-CFD49B119CCF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Codility.PrimeAndCompositeNumbers.MinPerimeterRectangle", "Codility.PrimeAndCompositeNumbers.MinPerimeterRectangle\Codility.PrimeAndCompositeNumbers.MinPerimeterRectangle.csproj", "{E766ED78-4408-48C2-91CA-CFD49B119CCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codility.EucledianAlgorithm.ChocolateByNumbers", "Codility.EucledianAlgorithm.ChocolateByNumbers\Codility.EucledianAlgorithm.ChocolateByNumbers.csproj", "{87616BEC-5D07-40C4-AB79-547676FAE59B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -183,6 +185,10 @@ Global
 		{E766ED78-4408-48C2-91CA-CFD49B119CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E766ED78-4408-48C2-91CA-CFD49B119CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E766ED78-4408-48C2-91CA-CFD49B119CCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87616BEC-5D07-40C4-AB79-547676FAE59B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87616BEC-5D07-40C4-AB79-547676FAE59B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87616BEC-5D07-40C4-AB79-547676FAE59B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87616BEC-5D07-40C4-AB79-547676FAE59B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -210,6 +216,7 @@ Global
 		{1748954F-6137-49F3-B3BB-08FCCB62AAE8} = {1B82E063-78E4-4C62-86D8-6E512C5DD86E}
 		{90CE29EF-F650-4CBF-AC1F-FC052E0B78FF} = {C4BF44AD-BEB3-49F1-A3DC-31D83E82AA09}
 		{E766ED78-4408-48C2-91CA-CFD49B119CCF} = {C4BF44AD-BEB3-49F1-A3DC-31D83E82AA09}
+		{87616BEC-5D07-40C4-AB79-547676FAE59B} = {952DD8F4-4628-4617-B3F2-0069B2E92BD7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8F3B5E77-4EB2-4468-BCE4-7B4DD3D7BA09}
